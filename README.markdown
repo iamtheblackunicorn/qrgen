@@ -14,8 +14,9 @@ To install QR Gen, make sure you have the following tools installed:
 - `Pip` for Python 3.x (Usually comes with Python 3.)
 - `Pillow` for Python 3.x
 - `qrcode` for Python 3.x
+- `colorama`for Python 3.x
 
-To install the last two tools, install them with `pip install name`.
+To install the last three tools, install them with `pip install name`.
 
 Once this is done, download the script and run it from the command-line:
 
